@@ -28,12 +28,12 @@ image:
 <div class="pagination">
   {% if paginator.previous_page %}
     {% if paginator.previous_page == 1 %}
-      <a href="{{ site.url }}" class="btn">Previous</a>
+      <a href="{{ site.url }}" class="btn">previous</a>
     {% else %}
-      <a href="{{ site.url }}/page{{ paginator.previous_page }}" class="btn">Previous</a>
+      <a href="{{ site.url }}/page{{ paginator.previous_page }}" class="btn">previous</a>
     {% endif %}
   {% else %}
-    Previous
+    previous
   {% endif %}
   <ul class="inline-list">
     <li>
@@ -54,8 +54,8 @@ image:
     {% endfor %}
   </ul>
   {% if paginator.next_page %}
-    <a href="{{ site.url }}/page{{ paginator.next_page }}" class="btn">Next</a>
+    <a href="{{ site.url }}/page{{ paginator.next_page }}" class="btn">next</a>
   {% else %}
-    Next
+    next
   {% endif %}
 </div><!-- /.pagination -->
