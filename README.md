@@ -1,7 +1,6 @@
 # Buddhamagnet blog
 
-Why [Jekyll](http://jekyllrb.com)? Simple, portable, controlled by Git. Posts in Markdown, fit on a USB stick and cloned
-in a million places. Never gonna lose this content. Used the amazing...
+Why [Jekyll](http://jekyllrb.com)? Simple, portable, controlled by Git. Posts in Markdown, fit on a USB stick and cloned in a million places. Never gonna lose this content.
 
 # Guest posts
 
