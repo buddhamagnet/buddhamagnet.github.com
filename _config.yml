@@ -7,7 +7,7 @@ url:              http://localhost:4000
 # Owner/author information
 owner:
   name:           buddhamagnet
-  avatar:         avatar.jpg
+  avatar:         shaman.jpg
   bio:            "word engineer"
   email:          buddhamagnet@gmail.com
   # Social networking links used in footer. Update and remove as you like.
@@ -34,10 +34,11 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Theme Setup
-    url: /theme-setup
-  - title: External Link
-    url: http://mademistakes.com
+  - title: digital credentials
+    url: http://github.com/buddhamagnet/cv
+    external: true
+  - title: bushcraft crew
+    url: http://woodland-ways.co.uk
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
