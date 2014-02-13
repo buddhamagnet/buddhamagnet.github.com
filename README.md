@@ -8,6 +8,10 @@ in a million places. Never gonna lose this content. Used the amazing...
 Want to post? Fork this repo, add a post in Markdown
 format in the _posts folder and issue a pull request...bitch.
 
+Only joking, send me a Markdown file any which way you like.
+
+Posts on the wilds, tech, language, books, music and the vagabond soul are most welcome.
+
 # HPSTR Jekyll Theme
 
 They say three times the charm, so here is another free responsive Jekyll theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. If you've used my previous themes most of this should be familiar territory...
