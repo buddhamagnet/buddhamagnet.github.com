@@ -2,6 +2,7 @@
 layout: post
 title: axe action
 description: "axe action"
+categories: [bush]
 tags: [bush]
 comments: false
 share: false
