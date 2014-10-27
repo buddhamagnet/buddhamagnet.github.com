@@ -23,9 +23,6 @@ links:
   - title: digital credentials
     url: http://github.com/buddhamagnet/cv
     external: true
-  - title: bushcraft crew
-    url: http://woodland-ways.co.uk
-    external: true
 
 timezone:    America/New_York
 future:      true
